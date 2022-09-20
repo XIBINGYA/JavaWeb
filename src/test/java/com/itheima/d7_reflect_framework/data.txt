@@ -1,0 +1,14 @@
+==========Teacher==========
+name=波仔
+sex=男
+salary=60000.0
+==========Student==========
+name=八戒
+sex=男
+age=1888
+className=西天跑率
+hobby=null
+==========Teacher==========
+name=波仔
+sex=男
+salary=60000.0
